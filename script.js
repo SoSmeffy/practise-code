@@ -1,1 +1,1 @@
-alert("hello");
+alert("do you use Netlify?");
